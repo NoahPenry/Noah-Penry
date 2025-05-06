@@ -3,10 +3,9 @@
 
 ## 👋 About Me
 
-I’m a **Senior at Illinois State University**, majoring in **Agribusiness** with a **minor in Information Systems**, graduating May 2025.  
-I bring strong skills in agricultural finance, financial analysis, database design, data analysis and visualization, and IT project management.  
-As a dedicated **Division I athlete** in Track & Field and Cross Country, I’m proud of my problem-solving ability, time management, and communication skills.  
-I’m seeking a role that leverages both **technical** and **business acumen** to drive financial reporting and deliver strategic insights.
+I'm a **Senior at Illinois State University**, majoring in **Agribusiness** with a **minor in Information Systems**, graduating in May 2025.
+Skilled in agricultural finance, financial analysis, database design, data analysis and visualization, and IT project management. 
+I am a dedicated **Division I athlete** with exceptional problem-solving, time management, and communication skills.
 
 ---
 
@@ -14,20 +13,12 @@ I’m seeking a role that leverages both **technical** and **business acumen** t
 
 - Agricultural Finance & Marketing  
 - Microeconomics & Macroeconomics  
-- Business Organization & Management  
-- IT Project Management  
-
----
-
-## 🛠️ Business & Technical Project Experience
-
-- Conducted a comprehensive financial analysis for a large grain operation, focusing on liquidity, solvency, profitability, and efficiency.  
-  Developed financial reports and created graphic data visualizations to improve decision-making and communicate insights.
-
-- Performed system analysis for a social media application, including use case descriptions, domain class diagrams, system sequence diagrams, CRUD table analysis, and database design diagrams.
-
-- Completed commodity trading simulations using futures contracts on StockTrak and Ag Yield; monitored market trends, researched commodities, and conducted risk analyses to support informed decisions.
-
+- Business Organization & Management
+- IT Project Management
+- Systems Analysis & Java Programming
+- Database Design & SQL
+- Microsoft (Copilot, Visio, Project, Word, Excel, PowerPoint)
+ 
 ---
 
 ## 🎓 Education
